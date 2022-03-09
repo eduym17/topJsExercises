@@ -1,5 +1,3 @@
-# TOP-project-sign-up
-
 ![](https://img.shields.io/badge/TheOdinProject-yellow)
 
 # Project Name
